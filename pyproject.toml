@@ -8,6 +8,12 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "furo>=2025.12.19",
+    "myst-parser>=5.1.0",
+    "sphinx>=9.2.0",
+    "sphinx-autobuild>=2025.8.25",
+    "sphinx-book-theme>=1.4.0",
+    "sphinx-rtd-theme>=3.1.0",
     "zensical>=0.0.64",
 ]
 
